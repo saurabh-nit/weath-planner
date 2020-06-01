@@ -1,4 +1,4 @@
-# wealth-planner
+# wealth-planner built with Vue.js and Element UI
 
 ## Install vue cli service if not installed
 ```
